@@ -68,3 +68,14 @@ This project demonstrates hands-on practice with application monitoring and trou
 * Root cause investigation
 * Analytical thinking
 
+![Screenshot 112](Screenshot%20%28112%29.png)
+
+![Screenshot 113](Screenshot%20%28113%29.png)
+
+![Screenshot 114](Screenshot%20%28114%29.png)
+
+![Screenshot 115](Screenshot%20%28115%29.png)
+
+![Screenshot 116](Screenshot%20%28116%29.png)
+
+![Screenshot 117](Screenshot%20%28117%29.png)
