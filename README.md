@@ -1,2 +1,70 @@
-# -Dynatrace-Ticketing-Troubleshooting-
-This project demonstrates hands-on practice with application support workflows, including monitoring, troubleshooting, and ticket handling using tools like Dynatrace and simulated support scenarios.
+## 📁 Project Title
+
+**Application Monitoring & Troubleshooting Lab (Dynatrace)**
+
+---
+
+## 📝 README
+
+### 📌 Overview
+
+This project demonstrates hands-on practice with application monitoring and troubleshooting using Dynatrace. It focuses on identifying system issues, analyzing performance metrics, and investigating logs to understand root causes of application problems.
+
+---
+
+### 🛠️ Tool Used
+
+* Monitoring & Observability: Dynatrace
+
+---
+
+### 🔍 Key Activities
+
+#### 1. Monitoring & Issue Detection
+
+* Analyzed application performance metrics such as response time, failure rate, and throughput
+* Identified system-generated problems and alerts in the Dynatrace dashboard
+* Assessed impact on services and users
+
+---
+
+#### 2. Problem Investigation
+
+* Explored detected issues using Dynatrace problem view
+* Identified affected services and time of failure
+* Reviewed dependencies between services
+
+---
+
+#### 3. Log Analysis
+
+* Examined logs to identify errors and exceptions
+* Used timestamps and repeated patterns to isolate issues
+* Correlated logs with detected problems
+
+---
+
+#### 4. Troubleshooting Scenarios
+
+* Investigated simulated real-world issues such as:
+
+  * Increased error rates (500 errors)
+  * Slow application response times
+  * Service failures
+* Followed a structured troubleshooting approach:
+
+  * Understand the issue
+  * Reproduce behavior (if possible)
+  * Analyze logs and metrics
+  * Identify potential root cause
+
+---
+
+### 🎯 Skills Demonstrated
+
+* Application monitoring and observability
+* Performance analysis
+* Log-based troubleshooting
+* Root cause investigation
+* Analytical thinking
+
